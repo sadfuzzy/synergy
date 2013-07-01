@@ -13,7 +13,7 @@ Synergy
     
 1. Создайте новое приложение
     
-        rails new synergy_app -GJTq
+        rails _3.1.3_ new synergy_app -GJTq
     
 1. Настройте подключение к базе данных (рекомендуется MySQL с адаптером mysql2)
 1. Добавьте в Gemfile следующие строки:
