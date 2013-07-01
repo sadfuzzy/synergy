@@ -11,7 +11,7 @@ Synergy
     
 1. Создайте новое приложение
     
-        rails new synergy_app
+        rails _3.2.12_ new synergy_app
     
 1. Настройте подключение к базе данных (рекомендуется MySQL с адаптером mysql2)
 1. Добавьте в Gemfile следующие строки:
